@@ -9,3 +9,6 @@ Features
 - Removes common punctuation marks
 - Sorts the results alphabetically
 - Comprehensive test cases
+
+  <img width="783" alt="Screenshot 2025-03-20 at 11 37 53 AM" src="https://github.com/user-attachments/assets/939e4602-d89b-4d6b-897e-34ed32e9423f" />
+
